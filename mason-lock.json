@@ -1,0 +1,1 @@
+{"bricks":{"hello":"0.1.0+1","widget":{"git":{"url":"https://github.com/felangel/mason.git","path":"bricks/widget","ref":"36b281d29d4ccc9e4b6449a908bc0ed67bdf09dd"}},"local_brick":{"path":"local_brick"},"widget_with_cubit_and_freezed":{"path":"widget_with_cubit_and_freezed"}}}
